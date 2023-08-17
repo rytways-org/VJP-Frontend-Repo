@@ -1,0 +1,41 @@
+export const data = [
+    { "id":1,
+      "name": "R1234567",
+      "username": "ISRO",
+      "email": "Nozzle",
+      "phone": "98",
+      "website": "43567",
+    },
+    {
+      "id": 2,
+      "name": "RQ234567",
+      "username": "BHEL",
+      "email": "Compressor",
+      "phone": "121",
+      "website": "56789",
+    },
+    {
+      "id": 3,
+      "name": "R34567QE",
+      "username": "BHEL",
+      "email": "Exhaust",
+      "phone": "486",
+      "website": "45678",
+    },
+    {
+      "id": 4,
+      "name": "F34567QE",
+      "username": "BHEL",
+      "email": "Turbine",
+      "phone": "88",
+      "website": "88898",
+    },
+    {
+      "id": 5,
+      "name": "DF34567QE",
+      "username": "DRDO",
+      "email": "Rotor",
+      "phone": "12",
+      "website": "12345",
+    }
+  ]

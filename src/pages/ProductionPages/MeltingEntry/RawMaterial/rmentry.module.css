@@ -1,0 +1,40 @@
+.monthlyform{
+    margin-top: 8em;
+
+}
+
+.title{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.shRow{
+    overflow: hidden; 
+}
+
+.shCol{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.tableCon{
+    margin-top: 2em;
+    padding: 2em 2em .5em 2em;
+}
+
+.formCon{
+    width:100%;
+}
+
+.btn{
+    margin-left: 0.8em;
+    width:max-content;
+    display: flex;
+    margin-top:px;
+}
+
+.buttCon{
+    margin-left: 1em;
+    margin-bottom: 2em;
+    
+}

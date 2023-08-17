@@ -1,0 +1,41 @@
+export const RmData = [
+    { "id":1,
+      "rmName": "Rm1234567",
+      "tQty": "1240",
+      "dQty": "560",
+      'wQty':"380",
+      "noQty":"0",
+     },
+    {
+      "id": 2,
+      "rmName": "Rm234567",
+       "tQty": "2800",
+      "dQty": "1200",
+      'wQty':"1200",
+      "noQty":"0",
+     },
+    {
+      "id": 3,
+      "rmName": "Rm34567QE",
+      "tQty": "2500",
+      "dQty": "1000",
+      'wQty':"1000",
+      "noQty":"0",
+     },
+    {
+      "id": 4,
+      "rmName": "Rm34567QE",
+      "tQty": "3500",
+      "dQty": "1700",
+      'wQty':"1500",
+      "noQty":"0",
+    },
+    {
+      "id": 5,
+      "rmName": "Rm34567QE",
+      "tQty": "4500",
+      "dQty": "2220",
+      'wQty':"1900",
+      "noQty":"0",
+    }
+  ]

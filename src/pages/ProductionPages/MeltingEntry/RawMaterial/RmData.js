@@ -1,0 +1,40 @@
+export const Rmdata = [
+    { "id":1,
+      "RmGrade": "RM32454343",
+      "Alloy":"60",
+      "Runner":"20",
+      "Qty": "4 kgs",
+      "type":"Ingots",
+      "tQty": "80 kgs",
+    },
+    {
+      "id": 2,
+      "RmGrade": "TM3434322",
+      "Qty": "2 kgs",
+      "Alloy":"30",
+      "Runner":"10",
+      "type":"Ingots",
+      "tQty": "40 kgs",
+    },
+    {
+      "id": 3,
+      "RmGrade": "LM4354545",
+      "Qty": "1 kgs",
+      "type":"Consumable",
+      "tQty": "20 kgs",
+    },
+    {
+      "id": 4,
+      "RmGrade": "YU32454343",
+      "Qty": "3 kgs",
+      "type":"Consumable",
+      "tQty": "60 kgs",
+    },
+    {
+      "id": 5,
+      "RmGrade": "EF32454343",
+      "Qty": "2 kgs",
+      "type":"Consumable",
+      "tQty": "40 kgs",
+    }
+  ]

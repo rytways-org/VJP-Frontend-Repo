@@ -1,0 +1,26 @@
+.card{
+    margin : 2rem;
+    padding: .0rem;
+    outline-style: inherit;
+    box-shadow: 5px 5px 4px 4px rgb(190, 190, 190);
+    width:100%;
+    }  
+    .icon{
+        height: 12px;
+        padding-left: 6px;
+        }
+    
+    .container{
+        padding-left: 8px;
+        margin-left: 8px;
+        margin-right: 1rem;
+        padding-right: 0;
+        width:100%
+    }
+    
+    .heading{
+        text-align: left;
+        padding-left: 0%;
+        width: 100%;
+        display: inline-block;
+    }

@@ -1,0 +1,14 @@
+.container{
+  width:100%;
+  padding-right: 0em;
+  margin: 0em 0em 1em 0em;
+  padding: 0em 0em 1em 0em;
+  display: inline-block;
+}
+.btn{
+  margin-left: 0.2em;
+  width:max-content;
+  display: flex;
+  margin-top:.2em;
+  margin-bottom:.4em
+}

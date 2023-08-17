@@ -1,0 +1,15 @@
+.donot{
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-size: 30px;
+}
+.rmchart{
+    min-height:16em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    font-size: 30px;
+}
+.title{
+    text-align: center;
+    background-color: aquamarine;
+}

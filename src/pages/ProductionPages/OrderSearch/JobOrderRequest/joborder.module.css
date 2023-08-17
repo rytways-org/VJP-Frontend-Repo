@@ -1,0 +1,32 @@
+.monthlyform{
+    margin-top: 8em;
+
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #170462;
+    color: aliceblue;
+    height: 3rem;
+}
+
+.shRow{
+    overflow: hidden; 
+}
+
+.shCol{
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+
+.tableCon{
+    margin-top: 2em;
+}
+
+.formCon{
+    width:100%;
+}
+

@@ -1,0 +1,27 @@
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+.navbar{height: 80px;
+background-color:#ffffff;
+border-bottom: 1px solid rgb(176, 176, 180);}
+.rightnav{display: flex;
+justify-content: flex-end;
+align-items: center;
+
+}
+.ltext{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: aliceblue;
+    margin-left: 2rem;
+}
+/* Add a more specific selector to ensure the styles are applied */
+.navbar .rightnav .uicon {
+    
+  
+  border-radius: 50% !important;
+}
+.uname{margin-top: 1.5rem;}
